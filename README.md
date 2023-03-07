@@ -1,5 +1,4 @@
 Node.js practice with http and networking
 
-used for person practice
-
-currently running on an older version of node than recommended
+used for personal practice
+running on node 19.7.0
